@@ -1,0 +1,36 @@
+
+body{
+}
+img{
+  width: 100%;
+  height: auto;
+}
+
+.textoverlay {
+  position:relative;
+
+}
+
+.overlay-title{
+
+position: absolute;
+top:15px;
+left: 16px;
+color:white;
+text-decoration: underline;
+background-color: lightgrey;
+font-size: 145px;
+
+
+}
+
+.overlay-date{
+
+position:absolute;
+bottom: 5px;
+left: 16px;
+color: white;
+background-color: lightgrey;
+font-size: 35px;
+
+}
